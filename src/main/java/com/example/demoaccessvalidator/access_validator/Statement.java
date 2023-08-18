@@ -12,4 +12,5 @@ public class Statement {
     private final PrincipalType principalType;
     private final UUID principalId;
     private final List<BoardAction> actions;
+// Add effect with values('Allow, Deny')
 }
